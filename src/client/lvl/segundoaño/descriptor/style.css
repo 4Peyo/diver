@@ -1,0 +1,13 @@
+body{
+    Font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+table{
+    width: 60%;
+}
+
+table, tr, th, td{
+    border: 2px solid rgb(50, 26, 182);
+    border-collapse: collapse;
+}
+
