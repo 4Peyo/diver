@@ -1,6 +1,7 @@
 body{
-    Font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif
+    Font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 }
+
 
 #tabla, #texto, #botones, #columna{
     width:100%;
